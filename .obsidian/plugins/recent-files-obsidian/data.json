@@ -1,0 +1,63 @@
+{
+  "recentFiles": [
+    {
+      "basename": "Home",
+      "path": "Home.md"
+    },
+    {
+      "basename": "YYYY-MM-DD",
+      "path": "00 Journal/Periodic/Daily/YYYY-MM-DD.md"
+    },
+    {
+      "basename": "YYYY-MM-DD Journal",
+      "path": "00 Journal/Entries/YYYY-MM-DD Journal.md"
+    },
+    {
+      "basename": "Example Domain MOC",
+      "path": "30 Knowledge/Example Domain/Example Domain MOC.md"
+    },
+    {
+      "basename": "EP Tasks",
+      "path": "10 Project/Example Project/EP Tasks.md"
+    },
+    {
+      "basename": "EP Mentions",
+      "path": "10 Project/Example Project/EP Mentions.md"
+    },
+    {
+      "basename": "EP Charter",
+      "path": "10 Project/Example Project/EP Charter.md"
+    },
+    {
+      "basename": "EP +MOC",
+      "path": "10 Project/Example Project/EP +MOC.md"
+    },
+    {
+      "basename": "Project Dashboard",
+      "path": "10 Project/Project Dashboard.md"
+    },
+    {
+      "basename": "Area Dashboard",
+      "path": "20 Area/Area Dashboard.md"
+    },
+    {
+      "basename": "Project",
+      "path": "20 Area/Example Area/Projects/Project.md"
+    },
+    {
+      "basename": "EA +MOC",
+      "path": "20 Area/Example Area/EA +MOC.md"
+    },
+    {
+      "basename": "EA Mentions",
+      "path": "20 Area/Example Area/EA Mentions.md"
+    },
+    {
+      "basename": "EA Tasks",
+      "path": "20 Area/Example Area/EA Tasks.md"
+    }
+  ],
+  "omittedPaths": [],
+  "maxLength": null,
+  "openType": "tab"
+}
